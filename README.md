@@ -1,2 +1,2 @@
 # theodinproject
-Repos for The Odin Project
+Assignments from The Odin Project
